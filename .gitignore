@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+venv/
+__pycache__/
+*.pyc
+
+# Large model files
+*.bin
+*.pt
+*.h5
+*.tflite
+*.onnx
+*.ckpt
+*.safetensors
+~/.ollama
+ollama_models/
+
+
+
+# System files
+.DS_Store
+Thumbs.db
