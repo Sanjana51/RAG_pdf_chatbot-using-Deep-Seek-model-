@@ -1,4 +1,5 @@
-# 📄 PDF Chat & Summarizer with ChromaDB  
+# 📄 PDF Chat & Summarizer 
+
 
 This is a **Retrieval-Augmented Generation (RAG) AI assistant** that allows users to **chat with PDFs** and generate concise **summaries**. It uses **LangChain, ChromaDB, and Ollama** to process, index, and retrieve information efficiently.
 
